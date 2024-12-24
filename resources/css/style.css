@@ -19,7 +19,7 @@ body {
 }
 
 .header--sub-header {
-    font-size: 42px;
+    font-size: 21px;
     color: grey;
 }
 /* LINKS */
@@ -31,7 +31,7 @@ body {
 
 /* FOOTER */
 .footer--copyright {
-    font-size: 21px;
+    font-size: 16px;
     color: grey;
     text-align: right;
 }
